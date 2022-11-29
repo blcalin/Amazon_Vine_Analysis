@@ -6,6 +6,7 @@ The purpose of this project is to analyze the Amazon Vine program, and determine
 ## Results and Analysis
 ### Results
  1. Vine Reviews
+ 
 ![image](https://user-images.githubusercontent.com/109991916/204624618-80564d4c-d45c-46b0-b466-4cea4abf2314.png)
 
 The total in Vine reviews is 94.
